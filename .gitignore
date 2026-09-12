@@ -1,0 +1,6 @@
+output/
+.codex-build/
+*.inspect.ndjson
+*.tmp
+*.log
+private-assets/
